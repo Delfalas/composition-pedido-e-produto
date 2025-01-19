@@ -9,12 +9,12 @@
  Status: PROCESSING <br>
  How many items to this order? 2 <br>
  Enter#1 item data: <br>
- Productname: TV <br>
- Productprice: 1000.00 <br>
+ Product name: TV <br>
+ Product price: 1000.00 <br>
  Quantity: 1 <br>
  Enter#2 item data: <br>
- Productname: Mouse <br>
- Productprice: 40.00 <br>
+ Product name: Mouse <br>
+ Product price: 40.00 <br>
  Quantity: 2 <br>
  ORDER SUMMARY: <br>
  Order moment: 20/04/2018 11:25:09<br>
